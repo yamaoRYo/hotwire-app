@@ -1,0 +1,19 @@
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/Users/yamaguchiryota/.rbenv/versions/3.1.4/bin/ruby -I /Users/yamaguchiryota/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-7enzuw sitelibdir\=./.gem.20230509-38716-7enzuw clean
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-7enzuw sitelibdir\=./.gem.20230509-38716-7enzuw
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-7enzuw sitelibdir\=./.gem.20230509-38716-7enzuw install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20230509-38716-7enzuw/io

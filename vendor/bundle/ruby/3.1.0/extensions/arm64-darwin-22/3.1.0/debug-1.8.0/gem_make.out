@@ -1,0 +1,16 @@
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+/Users/yamaguchiryota/.rbenv/versions/3.1.4/bin/ruby -I /Users/yamaguchiryota/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-sccob8 sitelibdir\=./.gem.20230509-38716-sccob8 clean
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-sccob8 sitelibdir\=./.gem.20230509-38716-sccob8
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/yamaguchiryota/workspace/hotwire-app/hotwire-app/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230509-38716-sccob8 sitelibdir\=./.gem.20230509-38716-sccob8 install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20230509-38716-sccob8/debug
